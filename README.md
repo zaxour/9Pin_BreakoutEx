@@ -10,3 +10,9 @@ The solder jumper for audio can be used as follows:
 -Left: Connects Right audio to the Mono pin
 
 Both jumpers can be soldered to make sure a mono audio signal goes to all of the audio pins.
+
+Top
+![Board Top](/images/top.png "Board Top")
+
+Bottom
+![Board Bottom](/images/bottom.png "Board Bottom")
